@@ -7,7 +7,7 @@ Decision Making in coala
 |Version |0.1                                                                 |
 |Title   |Decision Making in coala                                            |
 |Authors |Lasse Schuirmann <lasse@gitmate.io>, Mischa Krüger <makman@alice.de>|
-|Status  |Proposed                                                            |
+|Status  |Active                                                              |
 |Type    |Process                                                             |
 
 Abstract
