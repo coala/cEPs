@@ -4,7 +4,7 @@ coala Enhancement Proposals
 |Metadata|                                   |
 |--------|-----------------------------------|
 |cEP     |0                                  |
-|Version |1.0                                |
+|Version |1.1                                |
 |Title   |coala Enhancement Proposals        |
 |Authors |Lasse Schuirmann <lasse@gitmate.io>|
 |Status  |Active                             |
@@ -115,3 +115,11 @@ community.
 A cEP may be rejected if the community determines.
 
 Follow up states are `Proposed`.
+
+Patching cEP's
+--------------
+
+cEP's may be changed. If a cEP is changed, the version number has to be
+increased according to [semantic versioning](http://semver.org/).
+
+Patching a cEP to a higher version can be done with a B level decision.
