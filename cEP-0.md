@@ -4,7 +4,7 @@ coala Enhancement Proposals
 |Metadata|                                   |
 |--------|-----------------------------------|
 |cEP     |0                                  |
-|Version |0.1                                |
+|Version |1.0                                |
 |Title   |coala Enhancement Proposals        |
 |Authors |Lasse Schuirmann <lasse@gitmate.io>|
 |Status  |Active                             |
