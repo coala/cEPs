@@ -7,7 +7,7 @@ coala Enhancement Proposals
 |Version |0.1                                |
 |Title   |coala Enhancement Proposals        |
 |Authors |Lasse Schuirmann <lasse@gitmate.io>|
-|Status  |Proposed                           |
+|Status  |Active                             |
 |Type    |Process                            |
 
 Abstract
