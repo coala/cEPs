@@ -37,9 +37,6 @@ Limited Dictator (short: BLD).
 The BLD is a coala member with additional veto rights as described below. As
 per this cEP, Lasse Schuirmann is the BLD for coala.
 
-The community may at all times abandon the project and create a fork if the BLD
-acts stupidishly or is uncovered a fraud.
-
 Decision Types
 --------------
 
