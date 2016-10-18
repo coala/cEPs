@@ -1,3 +1,9 @@
+[spacing]
 files = **.md
 use_spaces = yeah
 bears = SpaceConsistencyBear
+
+[commits]
+bears = GitCommitBear
+shortlog_regex = ([^:]*|[^:]+: [A-Z0-9*].*)
+shortlog_trailing_period = False
