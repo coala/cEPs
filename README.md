@@ -12,7 +12,7 @@ in the `cEP-0000.md` document.
 | [cEP-0003](cEP-0003.md) | Teams in coala|This is a proposal on how to decentralize the management of coala by introducing teams. |
 | [cEP-0005](cEP-0005.md) | coala Configuration|One main pain point for our users is that coala is hard to configure. |
 | [cEP-0006](cEP-0006.md) | coala Community Code of Conduct | Like the technical community as a whole, the coala team and community is made up of a mixture of professionals and volunteers from all over the world,working on every aspect of the mission - including mentorship, teaching, and connecting people. |
-| [cEP-0009](cEP-0009.md) | Change status | This cEP proposes a mechnaism to represent and extract information from project files and an interface to utilize the extracted information. |
+| [cEP-0009](cEP-0009.md) | Change status | This cEP proposes a mechanism to represent and extract information from project files and an interface to utilize the extracted information. |
 | [cEP-0010](cEP-0010.md) |Convert bears to use aspects | This document describes how `aspects` will be defined for and connected with bears and how their results will be annotated with them. |
 | [cEP-0012](cEP-0012.md) | coala's Command Line Interface|This cEP describes the design of coala's Command Line Interface (the action selection screen). |
 | [cEP-0013](cEP-0013.md) | Cobot Enhancement and porting|This cEP describes about the new features that are to be added to cobot as a part of the [GSoC project](https://summerofcode.withgoogle.com/projects/#4913450777051136). |
