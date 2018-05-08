@@ -3,6 +3,10 @@ files = **.md
 use_spaces = yeah
 bears = SpaceConsistencyBear
 
+[markdown]
+files = **.md
+bears = MarkdownBear
+
 [commits]
 bears = GitCommitBear
 shortlog_regex = ([^:]*|[^:]+: [A-Z0-9*].*)
