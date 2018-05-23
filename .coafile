@@ -6,6 +6,7 @@ bears = SpaceConsistencyBear
 [markdown]
 files = **.md
 bears = MarkdownBear
+max_line_length = 80
 
 [commits]
 bears = GitCommitBear
