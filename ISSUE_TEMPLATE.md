@@ -4,6 +4,7 @@ use the issue template.
 If you need any help regarding usage of coala, check out the documentation
 or hit us up on chat.
 
+@@ -7,9 +7,10 @@
 ### Overview Description
 
 # Steps to Reproduce
@@ -19,6 +20,7 @@ or hit us up on chat.
 # Reproducibility
 
 # Additional Information:
+@@ -18,6 +18,6 @@
 
 Chat: <https://coala.io/chat>
 Issue Template: <https://github.com/coala/coala/blob/master/CONTRIBUTING.rst#filing-issues>
